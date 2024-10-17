@@ -108,6 +108,16 @@ body{
     padding-top: 5%;
 }
 
+.projects a{
+    color: #099BE6;
+    text-decoration-line: none;
+}
+
+.projects a:hover{
+    color: #6AF780;
+    text-decoration-line: underline;
+}
+
 .interest h2{
     width: 200px;
     margin-left: auto;
